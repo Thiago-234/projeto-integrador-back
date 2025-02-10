@@ -4,7 +4,7 @@ Esse projeto consiste em uma aplicação que você pode adicionar músicas que v
 
 ## Autores
 
-- [@Thiago-234](https://github.com/Thiago-234)
+- [Thiago-234](https://github.com/Thiago-234)
 
 - [Luis Felipe Cantieri Fernandes](https://github.com/LuisCantieri)
 
